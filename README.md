@@ -1,5 +1,5 @@
-![MasterHead](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
-<h1 align="center">Eden Hailu </h1>
+![MasterHead](https://user-images.githubusercontent.com/99312832/229244240-b3517b73-78f2-4c66-975d-dabfa36bb75c.png)
+<h1 align="center">I'm Eden Hailu </h1>
 
 <img align= "right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
