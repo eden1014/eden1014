@@ -4,7 +4,7 @@
 <img align= "right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 # 💫 About Me:
-🔭 Currently working on web development and graphic design.<br>👯 Interested in collaborating on web development or graphic design projects.<br>🤝 Looking for help with 3D animation.<br>🌱 Currently learning 3D animation techniques.<br>💬 Ask me about my experience in web development or graphic design.<br>⚡ Fun fact : I also enjoy creating digital illustrations.<br><br><br><br>
+🔭 Currently working on web development and graphic design.<br>👯 Interested in collaborating on web development or graphic design projects.<br>🤝 Looking for help with 3D animation.<br>🌱 Currently learning fullstack development.<br>💬 Ask me about my experience in web development or graphic design.<br><br><br><br>
 
 
 ## 🌐 Socials:
