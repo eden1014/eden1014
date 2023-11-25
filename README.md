@@ -1,11 +1,11 @@
 ![MasterHead](https://user-images.githubusercontent.com/99312832/229244240-b3517b73-78f2-4c66-975d-dabfa36bb75c.png)
 <h1 align="center">I'm Eden Hailu </h1>
 
-<img align= "right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 # 💫 About Me:
-🔭 Currently working on web development and graphic design.<br>👯 Interested in collaborating on web development or graphic design projects.<br>🤝 Looking for help with 3D animation.<br>🌱 Currently learning fullstack development.<br>💬 Ask me about my experience in web development or graphic design.<br><br><br><br>
+🔭 Currently working on backend development.<br>👯 Interested in collaborating on backend development. <br> <br>🌱 Currently learning web3.<br>💬 Ask me about my experience in web development or graphic design.<br><br><br><br>
 
+<img align= "right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ha_edu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eden-hailu222) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/EduHa4) 
