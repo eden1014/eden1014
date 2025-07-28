@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 Currently working on backend development.<br>👯 Interested in collaborating on backend development. <br> <br>🌱 Currently learning web3.<br>💬 Ask me about my experience in web development or graphic design.<br><br><br><br>
+🔭 Currently working on both backend and frontend.<br>👯 Interested in workin on frontend development. <br> <br>🌱 Currently learning web3.<br>💬 Ask me about my experience in web development or graphic design.<br><br><br><br>
 
 <img align= "right" alt="Coding" width="400" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
 
